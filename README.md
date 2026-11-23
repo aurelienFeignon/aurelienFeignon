@@ -50,5 +50,5 @@ Highcharts visualizations.
 
 ## Contact
 
-[LinkedIn](https://www.linkedin.com/in/aur%C3%A9lien-feignon-19a01820b/) ·
+[LinkedIn](https://www.linkedin.com/in/aurelien-feignon/) ·
 [aurelien.feignon@gmail.com](mailto:aurelien.feignon@gmail.com)
